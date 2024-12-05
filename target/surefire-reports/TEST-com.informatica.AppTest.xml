@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="com.informatica.AppTest" time="0.063" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\ppenthoi\OneDrive - Informatica\Documents\IDMC\Project INFA\iics-permission-management-utility\target\test-classes;C:\Users\ppenthoi\OneDrive - Informatica\Documents\IDMC\Project INFA\iics-permission-management-utility\target\classes;C:\Users\ppenthoi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\ppenthoi\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\ppenthoi\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\ppenthoi\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\ppenthoi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azul.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Zulu\zulu-8\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\ppenthoi\AppData\Local\Temp\surefire7858359556569861895\surefirebooter-20241010144955880_3.jar C:\Users\ppenthoi\AppData\Local\Temp\surefire7858359556569861895 2024-10-10T14-49-54_594-jvmRun1 surefire-20241010144955880_1tmp surefire_0-20241010144955880_2tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\ppenthoi\OneDrive - Informatica\Documents\IDMC\Project INFA\iics-permission-management-utility\target\test-classes;C:\Users\ppenthoi\OneDrive - Informatica\Documents\IDMC\Project INFA\iics-permission-management-utility\target\classes;C:\Users\ppenthoi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\ppenthoi\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\ppenthoi\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\ppenthoi\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\ppenthoi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ppenthoi"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Zulu\zulu-8\jre"/>
+    <property name="basedir" value="C:\Users\ppenthoi\OneDrive - Informatica\Documents\IDMC\Project INFA\iics-permission-management-utility"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="jdk.vendor.version" value="Zulu 8.64.0.19-CA-win64"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\ppenthoi\AppData\Local\Temp\surefire7858359556569861895\surefirebooter-20241010144955880_3.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Zulu\zulu-8\jre\lib\resources.jar;C:\Program Files\Zulu\zulu-8\jre\lib\rt.jar;C:\Program Files\Zulu\zulu-8\jre\lib\sunrsasign.jar;C:\Program Files\Zulu\zulu-8\jre\lib\jsse.jar;C:\Program Files\Zulu\zulu-8\jre\lib\jce.jar;C:\Program Files\Zulu\zulu-8\jre\lib\charsets.jar;C:\Program Files\Zulu\zulu-8\jre\lib\jfr.jar;C:\Program Files\Zulu\zulu-8\jre\lib\cat.jar;C:\Program Files\Zulu\zulu-8\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_345-b01"/>
+    <property name="user.name" value="ppenthoi"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Zulu\zulu-8\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\ppenthoi\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azul.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ppenthoi\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_345"/>
+    <property name="user.dir" value="C:\Users\ppenthoi\OneDrive - Informatica\Documents\IDMC\Project INFA\iics-permission-management-utility"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Zulu\zulu-8\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\ppenthoi\AppData\Local\cloud-code\installer\google-cloud-sdk\bin;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Zulu\zulu-21\bin\;C:\Program Files\Zulu\zulu-8\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Users\ppenthoi\Downloads\visualvm_217.zip\visualvm_217\bin;C:\Users\ppenthoi\OneDrive - Informatica\Documents\TOOLS\Eclipse Memory Analyzer Tool;C:\MinGW\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;C:\Users\ppenthoi\flutter\bin;C:\Users\ppenthoi\android-sdk\cmdline-tools\latest\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\ppenthoi\OneDrive - Informatica\Documents\SDP Blockchain\kubo_ipfs\;C:\Program Files;C:\Program Files\dotnet\;C:\Program Files\Perforce\;C:\Users\ppenthoi\OneDrive - Informatica\Documents\IDMC\Project INFA\apache-maven-3.9.9\bin;C:\Users\ppenthoi\AppData\Local\Microsoft\WindowsApps;C:\Users\ppenthoi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ppenthoi\AppData\Roaming\npm;c:\users\ppenthoi\appdata\roaming\python\python312\scripts;c:\users\ppenthoi\.local\bin;C:\Users\ppenthoi\AppData\Local\Programs\Fiddler;C:\Program Files\OpenSSL-Win64\bin;C:\Users\ppenthoi\OneDrive - Informatica\Documents\IDMC\Project INFA\apache-maven-3.9.9\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="25.345-b01"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Zulu\zulu-8\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.informatica.AppTest" time="0.031"/>
+</testsuite>
